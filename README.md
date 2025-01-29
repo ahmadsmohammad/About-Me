@@ -20,5 +20,4 @@ I'm a passionate Computer Science Master's student with a strong interest in **A
   - Artificial Intelligence & Machine Learning
   - Cloud Computing & DevOps
   - Data Engineering & Databases
-  - Distributed Systems
   - Big Data Processing
